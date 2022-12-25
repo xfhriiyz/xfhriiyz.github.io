@@ -1102,3 +1102,18 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+
+@media (min-width: 992px) { 
+  img.img-tes{
+    width:30rem; 
+    height:18rem;
+  }
+ }
+
+ @media (max-width: 991px) { 
+  img.img-tes{
+    width:100%; 
+    height:18rem;
+  }
+ }
