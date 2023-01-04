@@ -1106,7 +1106,7 @@ section {
 
 @media (min-width: 992px) { 
   img.img-tes{
-    width: 30px;
+    width: 100%;
     height:18rem;
   }
  }
